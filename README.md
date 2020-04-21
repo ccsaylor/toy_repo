@@ -9,4 +9,4 @@ Adding a line for my remote repo.
 
 Making a remote change.
 
-Wolfman has added a line!
+Wolfman has added a line! Now it has been changed.
