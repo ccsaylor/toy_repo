@@ -1,1 +1,2 @@
-print("Hello world, this is Wolfman")
+# This prints Hello world
+print("Hello world from both of us")
